@@ -1,4 +1,4 @@
-JobName=PersonalStatement
+JobName=GenericPersonalStatement
 TeX=pdflatex
 LatexFlags= -jobname=$(JobName) --shell-escape
 
