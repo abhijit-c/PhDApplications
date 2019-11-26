@@ -3,6 +3,12 @@
 A Repository containing all of my applications for graduate school and the
 summer of 2020.
 
+***Professors:*** Once again, thanks for writing me a letter. I really
+appreciate it. If you look above to the `GenericPersonalStatement.pdf` file,
+you'll find the main body of the personal statement I'll be using for most of my
+applications. Naturally I'll be tweaking it slightly per school, but the key
+points are there for you, hopefully to make the process of writing easier.
+
 ## Places to Apply
 
 ### Math PhD
