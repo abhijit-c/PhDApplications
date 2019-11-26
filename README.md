@@ -26,6 +26,11 @@ summer of 2020.
           provably stable methods for wave propagation and fluid dynamics,
           efficient high performance implementations on many-core and GPU
           architectures, and discontinuous Petrov-Galerkin (DPG) methods.
+- Rutgers
+    - Wujun Zhang does some interesting stuff on structure preserving
+      discretizations of nonlinear PDEs. Fioralba Cakoni too in inverse
+      problems.
+    - December 15th deadline
 - University of British Columbia
 - University of Indiana
     - They run ISCAM
