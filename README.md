@@ -11,8 +11,11 @@ summer of 2020.
     - Work similar to Thomas P. Witelski.
 - Georgia Tech
     - PhD in Computational Sciences and Engineering
-- NC State
-- NYU
+- North Carolina State
+- Northwestern
+    - Unsure if I should do this one. The faculty seem to be way more pure, but
+      there's a lot of interesting dynamical systems work here, so I struggle.
+- New York University
 - Rice
     - CAAM (Computational and Applied Math)
     - December 15th deadline (late deadline is January 15th)
@@ -24,14 +27,20 @@ summer of 2020.
           efficient high performance implementations on many-core and GPU
           architectures, and discontinuous Petrov-Galerkin (DPG) methods.
 - University of British Columbia
-- UMD
-- UMich Ann Arbor
-- UPenn
+- University of Indiana
+    - They run ISCAM
+    - January 15th deadline
+- University of Maryland
+- University of Michigan Ann Arbor
+- University of Penn State
     - Their AMCS program has what I want.
     - Jim Haglund does computational number theory too, which is sweet.
     - January 1st deadline
-- UT Austin
+- University of Texas Austin
     - December 15th deadline
+- University of Utah
+    - Yekaterina Epshteyn does research close to what I like.
+    - January 1st deadline
 
 ### Computer Science PhD
 - Colorado Boulder
