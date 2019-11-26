@@ -22,6 +22,14 @@ points are there for you, hopefully to make the process of writing easier.
     - Unsure if I should do this one. The faculty seem to be way more pure, but
       there's a lot of interesting dynamical systems work here, so I struggle.
 - New York University
+    - The research done by people in the fast algorithms group are close to what
+      I like. For example Professor O'Neil's (although he's moved to MIT) work
+      on boundary integral methods is interesting, and Professor Malhotra's
+      PVFMM library is close to what I find interesting.
+    - Similarily, Florial Wechsung's paper for augmenting the preconditioner for
+      the 3D stationary incompressible Navier-Stokes equation at high Reynolds
+      number that he presented in the numerical analysis seminar was
+      interesting.
 - Rice
     - CAAM (Computational and Applied Math)
     - December 15th deadline (late deadline is January 15th)
