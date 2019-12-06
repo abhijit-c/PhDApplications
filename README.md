@@ -13,14 +13,27 @@ points are there for you, hopefully to make the process of writing easier.
 
 ### Math PhD
 - Brown
+    - January 4th deadline
+    - Mark Ainsworth does interesting stuff in FEM, i.e. *Preconditioning the
+      mass matrix for high order finite element approximation on triangles.*
+    - George Karniadakis solves PDE via ML, which sounds crazy, but
+      unfortunately I know no ML so I can't tell how interesting this is.
+      *Physics Informed Deep Learning (Part I): Data-driven Solutions of
+      Nonlinear Partial Differential Equations*.
+- Colorado State University
+    - Febuary 1st deadline.
 - Duke
     - Work similar to Thomas P. Witelski.
+    - December 19th deadline.
 - Georgia Tech
     - PhD in Computational Sciences and Engineering
+    - December 20th deadline.
 - North Carolina State
+    - December 15th priority deadline, Febuary 1st official deadline.
 - Northwestern
     - Unsure if I should do this one. The faculty seem to be way more pure, but
       there's a lot of interesting dynamical systems work here, so I struggle.
+    - December 15th deadline.
 - New York University
     - The research done by people in the fast algorithms group are close to what
       I like. For example Professor O'Neil's (although he's moved to MIT) work
@@ -30,6 +43,7 @@ points are there for you, hopefully to make the process of writing easier.
       the 3D stationary incompressible Navier-Stokes equation at high Reynolds
       number that he presented in the numerical analysis seminar was
       interesting.
+    - December 15th deadline.
 - Rice
     - CAAM (Computational and Applied Math)
     - December 15th deadline (late deadline is January 15th)
@@ -46,11 +60,19 @@ points are there for you, hopefully to make the process of writing easier.
       problems.
     - December 15th deadline
 - University of British Columbia
+    - December 31st deadline.
+- University at Buffalo
+    - January 15th deadline.
+- UCLA
+    - December 15th deadline.
 - University of Indiana
     - They run ISCAM
     - January 15th deadline
 - University of Maryland
+    - AMSC program
+    - January 7th deadline.
 - University of Michigan Ann Arbor
+    - December 15th deadline
 - University of Penn State
     - Their AMCS program has what I want.
     - Jim Haglund does computational number theory too, which is sweet.
@@ -60,13 +82,19 @@ points are there for you, hopefully to make the process of writing easier.
 - University of Utah
     - Yekaterina Epshteyn does research close to what I like.
     - January 1st deadline
+- University of Washington
+    - December 15th deadline
 
 ### Computer Science PhD
 - Colorado Boulder
     - Their scientific computing program is under the CS department.
+    - December 15th deadline.
 - University of Chicago
-    - Computational Mathematics track in the computer science department.
-    - Applying to their joint math/cs PhD.
+    - Applying to CS program with computational math track.
+    - December 15th deadline.
+- University of Illinois
+    - Computational math program there.
+    - December 15th deadline.
 
 ### Summer 2020
 
