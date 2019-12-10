@@ -30,23 +30,14 @@ points are there for you, hopefully to make the process of writing easier.
     - December 20th deadline.
 - North Carolina State
     - December 15th priority deadline, Febuary 1st official deadline.
+    - Sent letter requests.
 - Northwestern
     - Unsure if I should do this one. The faculty seem to be way more pure, but
       there's a lot of interesting dynamical systems work here, so I struggle.
     - December 15th deadline.
-- New York University
-    - The research done by people in the fast algorithms group are close to what
-      I like. For example Professor O'Neil's (although he's moved to MIT) work
-      on boundary integral methods is interesting, and Professor Malhotra's
-      PVFMM library is close to what I find interesting.
-    - Similarily, Florial Wechsung's paper for augmenting the preconditioner for
-      the 3D stationary incompressible Navier-Stokes equation at high Reynolds
-      number that he presented in the numerical analysis seminar was
-      interesting.
-    - December 15th deadline.
+    - Sent letter requests.
 - Rice
     - CAAM (Computational and Applied Math)
-    - December 15th deadline (late deadline is January 15th)
     - Jesse Chan's research looks to be right up my wheelhouse.
         - Jesse Chan’s research interests are in numerical methods for PDEs and
           scientific computing. More specifically, his recent work has focused
@@ -54,17 +45,12 @@ points are there for you, hopefully to make the process of writing easier.
           provably stable methods for wave propagation and fluid dynamics,
           efficient high performance implementations on many-core and GPU
           architectures, and discontinuous Petrov-Galerkin (DPG) methods.
-- Rutgers
-    - Wujun Zhang does some interesting stuff on structure preserving
-      discretizations of nonlinear PDEs. Fioralba Cakoni too in inverse
-      problems.
-    - December 15th deadline
+    - December 15th deadline (late deadline is January 15th)
+    - Sent letter requests.
 - University of British Columbia
     - December 31st deadline.
 - University at Buffalo
     - January 15th deadline.
-- UCLA
-    - December 15th deadline.
 - University of Indiana
     - They run ISCAM
     - January 15th deadline
@@ -73,28 +59,31 @@ points are there for you, hopefully to make the process of writing easier.
     - January 7th deadline.
 - University of Michigan Ann Arbor
     - December 15th deadline
+    - Sent letter requests.
 - University of Penn State
     - Their AMCS program has what I want.
     - Jim Haglund does computational number theory too, which is sweet.
     - January 1st deadline
-- University of Texas Austin
-    - December 15th deadline
 - University of Utah
     - Yekaterina Epshteyn does research close to what I like.
     - January 1st deadline
 - University of Washington
     - December 15th deadline
+    - Sent letter requests.
 
 ### Computer Science PhD
 - Colorado Boulder
     - Their scientific computing program is under the CS department.
     - December 15th deadline.
+    - Sent letter requests.
 - University of Chicago
     - Applying to CS program with computational math track.
     - December 15th deadline.
+    - Sent letter requests.
 - University of Illinois
     - Computational math program there.
     - December 15th deadline.
+    - Sent letter requests.
 
 ### Summer 2020
 
