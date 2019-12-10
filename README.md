@@ -47,10 +47,18 @@ points are there for you, hopefully to make the process of writing easier.
           architectures, and discontinuous Petrov-Galerkin (DPG) methods.
     - December 15th deadline (late deadline is January 15th)
     - Sent letter requests.
+- UCLA
+    - December 15th deadline
+    - Sent letter requests.
 - University of British Columbia
     - December 31st deadline.
 - University at Buffalo
     - January 15th deadline.
+- University of Colorado Boulder
+    - Originally was looking at their CS department, but their applied math
+      department is actually what I needed to look at.
+    - December 15th deadline.
+    - Sent letter requests.
 - University of Indiana
     - They run ISCAM
     - January 15th deadline
@@ -72,10 +80,7 @@ points are there for you, hopefully to make the process of writing easier.
     - Sent letter requests.
 
 ### Computer Science PhD
-- Colorado Boulder
-    - Their scientific computing program is under the CS department.
-    - December 15th deadline.
-    - Sent letter requests.
+
 - University of Chicago
     - Applying to CS program with computational math track.
     - December 15th deadline.
