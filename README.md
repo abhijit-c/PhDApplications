@@ -54,6 +54,9 @@ points are there for you, hopefully to make the process of writing easier.
     - December 31st deadline.
 - University at Buffalo
     - January 15th deadline.
+- University of Chicago
+    - January 15th deadline.
+    - Sent letter requests.
 - University of Colorado Boulder
     - Originally was looking at their CS department, but their applied math
       department is actually what I needed to look at.
@@ -81,10 +84,7 @@ points are there for you, hopefully to make the process of writing easier.
 
 ### Computer Science PhD
 
-- University of Chicago
-    - Applying to CS program with computational math track.
-    - December 15th deadline.
-    - Sent letter requests.
+
 - University of Illinois
     - Computational math program there.
     - December 15th deadline.
