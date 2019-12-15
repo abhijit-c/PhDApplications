@@ -9,7 +9,7 @@ you'll find the main body of the personal statement I'll be using for most of my
 applications. Naturally I'll be tweaking it slightly per school, but the key
 points are there for you, hopefully to make the process of writing easier.
 
-## Places to Apply
+## All places I'm applying
 
 ### Math PhD
 - Brown
