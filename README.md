@@ -20,17 +20,10 @@ points are there for you, hopefully to make the process of writing easier.
       unfortunately I know no ML so I can't tell how interesting this is.
       *Physics Informed Deep Learning (Part I): Data-driven Solutions of
       Nonlinear Partial Differential Equations*.
-- Duke
-    - Work similar to Thomas P. Witelski.
-    - December 19th deadline.
 - North Carolina State
     - December 15th priority deadline, Febuary 1st official deadline.
     - Sent letter requests.
-- Northwestern
-    - Unsure if I should do this one. The faculty seem to be way more pure, but
-      there's a lot of interesting dynamical systems work here, so I struggle.
-    - December 15th deadline.
-    - Sent letter requests.
+    - Done!
 - Rice
     - CAAM (Computational and Applied Math)
     - Jesse Chan's research looks to be right up my wheelhouse.
@@ -41,7 +34,7 @@ points are there for you, hopefully to make the process of writing easier.
           efficient high performance implementations on many-core and GPU
           architectures, and discontinuous Petrov-Galerkin (DPG) methods.
     - December 15th deadline (late deadline is January 15th)
-    - Sent letter requests.
+    - Done!
 - University of British Columbia
     - December 31st deadline.
 - University of Chicago
@@ -52,7 +45,7 @@ points are there for you, hopefully to make the process of writing easier.
     - Originally was looking at their CS department, but their applied math
       department is actually what I needed to look at.
     - December 15th deadline.
-    - Sent letter requests.
+    - Done!
 - University of Maryland
     - AMSC program
     - January 7th deadline.
@@ -70,8 +63,11 @@ points are there for you, hopefully to make the process of writing easier.
     - Computational math program there.
     - December 15th deadline.
     - Sent letter requests.
+    - Done!
 
 ### Summer 2020
 
 - SIPARCS 2020 Project
   - https://www2.cisl.ucar.edu/siparcs/howtoapply
+- DOE CSGF
+  - January 15th deadline.
