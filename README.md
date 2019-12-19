@@ -20,14 +20,9 @@ points are there for you, hopefully to make the process of writing easier.
       unfortunately I know no ML so I can't tell how interesting this is.
       *Physics Informed Deep Learning (Part I): Data-driven Solutions of
       Nonlinear Partial Differential Equations*.
-- Colorado State University
-    - Febuary 1st deadline.
 - Duke
     - Work similar to Thomas P. Witelski.
     - December 19th deadline.
-- Georgia Tech
-    - PhD in Computational Sciences and Engineering
-    - December 20th deadline.
 - North Carolina State
     - December 15th priority deadline, Febuary 1st official deadline.
     - Sent letter requests.
@@ -47,14 +42,10 @@ points are there for you, hopefully to make the process of writing easier.
           architectures, and discontinuous Petrov-Galerkin (DPG) methods.
     - December 15th deadline (late deadline is January 15th)
     - Sent letter requests.
-- UCLA
-    - December 15th deadline
-    - Sent letter requests.
 - University of British Columbia
     - December 31st deadline.
-- University at Buffalo
-    - January 15th deadline.
 - University of Chicago
+    - CCAM Program
     - January 15th deadline.
     - Sent letter requests.
 - University of Colorado Boulder
@@ -62,15 +53,9 @@ points are there for you, hopefully to make the process of writing easier.
       department is actually what I needed to look at.
     - December 15th deadline.
     - Sent letter requests.
-- University of Indiana
-    - They run ISCAM
-    - January 15th deadline
 - University of Maryland
     - AMSC program
     - January 7th deadline.
-- University of Michigan Ann Arbor
-    - December 15th deadline
-    - Sent letter requests.
 - University of Penn State
     - Their AMCS program has what I want.
     - Jim Haglund does computational number theory too, which is sweet.
@@ -78,12 +63,8 @@ points are there for you, hopefully to make the process of writing easier.
 - University of Utah
     - Yekaterina Epshteyn does research close to what I like.
     - January 1st deadline
-- University of Washington
-    - December 15th deadline
-    - Sent letter requests.
 
 ### Computer Science PhD
-
 
 - University of Illinois
     - Computational math program there.
