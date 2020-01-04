@@ -1,0 +1,150 @@
+\documentclass[11pt]{article}
+%\documentclass{article}
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+
+% Fonts, so hard to choose..
+%\usepackage{tgschola} 
+%\usepackage{baskervald} 
+%\usepackage{kpfonts}
+%\usepackage[libertine,cmintegrals,cmbraces,vvarbb]{newtxmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{%
+  \footnotesize\sffamily
+  \yourname\quad
+  Website: \textcolor{blue}{\itshape\yourweb}\quad
+  \textcolor{blue}{\youremail}}
+
+\newcommand{\soptitle}{Personal Statement}
+\newcommand{\yourname}{Abhijit Chowdhary}
+\newcommand{\youremail}{ac6361@nyu.edu}
+\newcommand{\yourweb}{\url{https://abhijit-c.github.io/}}
+
+\newcommand{\statement}[1]{\par\medskip
+  \underline{\textcolor{blue}{\textbf{#1:}}}\space
+}
+
+\usepackage[
+  colorlinks,
+  breaklinks,
+  pdftitle={\yourname - \soptitle},
+  pdfauthor={\yourname},
+  unicode
+]{hyperref}
+
+\begin{document}
+
+\begin{center}\LARGE\soptitle\\
+\normalsize of \yourname\ (Mathematics Ph.D. applicant for Fall---2020)
+\end{center}
+
+\hrule
+\vspace{1pt}
+\hrule height 1pt
+
+\bigskip
+
+I am intent on obtaining a Ph.D. in order to study and, later under
+a university, research the field of computational and applied mathematics.
+Currently my main research interest is in the theory and practice of the {\em
+numerical solution to PDEs}, especially viewing this under the high performance
+and parallel lens. In addition, I have more theoretical interests in the
+behavior of PDEs in a {\em nonlinear dynamical systems} setting, specifically in
+approximating their solutions in order to reveal underlying control parameters.
+In general though I'd like to be able to model and understand the behavior of
+interesting systems (often like those found in fluid dynamics, materials, etc.),
+through both a keyboard and pen.
+
+I began to have an inkling towards these interests early in my undergraduate
+career, and since then I have madly dedicated myself to learning the field;
+which by it's nature demands a huge breadth of background in various different
+subjects. I intentionally loaded my schedule, took summer courses, and from my
+sophomore year onward I made sure to take advantage of the accelerated and more
+detailed graduate courses here at NYU. At the end of my undergraduate career
+here at NYU, I'll have taken 11 graduate courses (out of 25 including
+undergraduate \& summer courses) in computer science and math, including
+finishing the numerical analysis sequence offered for incoming Ph.D. students,
+three advanced topic seminars in computational math topics, and graduate PDE and
+algebra to improve my foundations. In addition, in order to keep my algorithmic
+skills sharp, I maintained a department tutor position for both the
+undergraduate and graduate algorithms courses through four semesters, stopping
+this semester only because my usual professor went on sabbatical. Also, in an
+effort to try and evolve my maturity towards research, I occasionally ran
+a computer science reading group through our local ACM chapter, which I am
+a board member of, looking over more classical papers like the original
+tit-for-tat iterated prisoners dilemma article, the cyclotomic AKS primality
+test paper, etc. In addition, I have a few completed projects and original
+research under my belt.
+
+{\bf Algebraic Point Set Surfaces:} I took the graduate course geometric
+modeling in my sophomore year, which investigated the cutting edge research in
+the field. For the final project, I investigated and implemented the paper {\em
+Algebraic Point Set Surfaces}%
+\footnote{\url{https://abhijit-c.github.io/storage/Guennebaud07.pdf}}
+by Gunnebaud and Gross, which was a modification
+to the usual point set surface technique for construction of surface normals and
+a mesh from a point cloud. I attempted to improve the matrix assembly via
+parallelization and understand methods to improve the efficiency of the
+generalized eigenvalue solve underlying the surface normal reconstruction.
+
+{\bf Parareal:} In my junior year, I wrote a topic paper on {\em Parareal}%
+\footnote{\url{https://abhijit-c.github.io/Research/resources/Parareal/Parareal.pdf}},
+a parallel-in-time finite difference scheme, discussing the details of its
+implementation, strong and weak scaling properties, and its convergence,
+efficiency, and stability analysis. My implementation was tested on the high
+performance computing cluster here at NYU, named Prince.
+
+{\bf REU @ Ohio University:} Finally, the most formal research experience I've
+had is in collaborating with Qiliang Wu from Ohio University and another student
+in the summer of 2019 in an REU on the diffusive stability of the
+Swift-Hohenberg equation near the Zigzag boundary in 2D. Originally, I was lured
+into the REU with the promise of a numerical project, but was swiftly distracted
+onto this topic instead, and despite it being out of my field at the time, the
+beautiful analysis within the proof we managed to construct nearing the end of
+project has convinced me to take a closer look at the theoretical approaches to
+understanding the behavior of troublesome systems; it's why I'm taking a course
+in perturbation theory now.  My favorite part of the program was it's freer
+structure, as our days would be split into two halves, in the first of which we
+would research, \LaTeX, and push the proof on our own, and in the second part we
+would gather and try and work out the major difficulties of the proof together.
+Through this, the REU convinced me that being a researcher is something that I'd
+not only desire but be good at; the process of going to sleep and waking up with
+a paper in hand and spending hours locked in a room with a problem and my
+colleagues was invigorating to the limit. My main contributions to this project,
+aside from those implicitly made in the group work, were in finding and
+subsequently correcting an error in an old classical paper in the literature,
+resulting in an appendix, the painstaking computation and verification (via
+Mathematica) of a critical eigenvalue expansion, and in working out the final
+details of the contraction argument, completing the proof.
+Although the paper is not yet in preprint, it's in the final draft stages and
+Professor Wu presented the research%
+\footnote{\url{https://abhijit-c.github.io/Research/resources/SHE/slides.pdf}}
+at Miami University's recent conference in Differential Equations and Dynamical
+Systems.
+
+During graduate school, I hope to be able make the transition, as I did in my
+REU, from learning about these subjects and writing survey papers on their
+topics, to producing my own original ideas on the field. To this end, I'm very
+excited to apply to Brown, one of the stronger schools directly in my interests.
+With respect to specific professors, {\em Professor Guzman's} work on the theory
+of finite elements is appealing to me, for example the work construcing FE-pairs
+for the arbitrary dimensional Stokes problem on barycentric refinements via
+deriving a local inf-sup condition for this case. I would also be interested in
+his work in discontinuous Galerkin, but I have only just touched that subject,
+and can't say much about it yet. In addition, {\em Professor Shu} shares
+interests with me in spectral methods, a class of methods which I've always
+found interesting. Finally, {\em Professor Karniadakis'} work in high
+performance and parallel computing, a field that I have large interests in, is
+also appealing to me. For example, his paper on PPINN for time dependent PDEs is
+an interesting generalization of the parareal idea I'm so familiar with, let
+alone the general idea of developing DNNs to solve PDEs, which is novel to me.
+I had hope of getting my hands dirty in developing GPU based methods for
+numerical PDE, so I'm excited to get involved in projects leveraging GPU
+friendly techniques, especially since Brown has the cluster {\em Oscar} which
+has 23 GPU nodes by itself. In short, there are many avenues for me to grow here
+at Brown, and thus I would very happy to join the department.
+
+\end{document}
